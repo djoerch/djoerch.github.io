@@ -8,3 +8,25 @@
   background: url("../images/hodaielab.png") 0 0 no-repeat;
   background-size: 16px;
 }
+
+
+#projects {
+  display: block;
+}
+
+
+#projects li {
+  float: left;
+  margin-right: 50px;
+  block: inline
+}
+
+#projects li a {
+  display: block;
+  color: blue;
+  text-decoration: none;
+}
+
+#projects li a:hover {
+  color: red;
+}

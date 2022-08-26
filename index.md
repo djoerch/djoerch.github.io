@@ -1,5 +1,3 @@
-Test
-
-
-
-jojo
+---
+layout: default
+---

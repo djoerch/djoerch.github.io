@@ -11,3 +11,5 @@ github:
 hodaielab:
   homepage: http://hodaielab.com
   github: http://github.com/hodaielab
+
+include: ['_pages']
